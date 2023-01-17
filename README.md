@@ -1,5 +1,9 @@
 ### Hi there 
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Jeremias." src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 💼 Full Stack Developer. <br />
 
 ```js
