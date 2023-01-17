@@ -1,6 +1,7 @@
 ### Hi there
 
-```const aboutMe = {
+```
+  const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
    technologies: {
@@ -14,8 +15,7 @@
          csharp: ["Asp.net Core"],
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB", "mySQL", "SQLServer"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
