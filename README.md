@@ -1,6 +1,6 @@
-###
+### Hi there
 
-const aboutMe = {
+```const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
    technologies: {
@@ -20,4 +20,5 @@ const aboutMe = {
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
+```
 
