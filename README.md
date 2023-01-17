@@ -4,7 +4,7 @@
 
 ```js
 const Jeremias = {
-  Pronuns: "he" | "him",
+  Pronuns: "He" | "Him",
   Code: [JavaScript, TypeScript, Python, C, HTML, CSS],
   Tools: [React, Redux, Next, Node, Flask, Jest, Docker],
   DataBases: [Sql, MongoDB, PostgreSQL]
