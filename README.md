@@ -1,13 +1,13 @@
 ### Hi there 
 
-💼 Full Stack Engineer Junior.
-❤️ I love writing TypeScript, and building fun experiments on type-level
+💼 Full Stack Developer.
+❤️ I love the coding.
 
 ```js
 const Jeremias = {
-  pronuns: "he" | "him",
-  code: [JavaScript, TypeScript, Python, C, HTML, CSS],
-  tools: [React, Redux, Next, Node, Flask, Jest, Docker],
+  Pronuns: "he" | "him",
+  Code: [JavaScript, TypeScript, Python, C, HTML, CSS],
+  Tools: [React, Redux, Next, Node, Flask, Jest, Docker],
   DataBases: [Sql, MongoDB, PostgreSQL]
 };
 ```
