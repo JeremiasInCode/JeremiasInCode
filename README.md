@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💼 Full Stack Developer Junior. <br />
+💼 Full Stack Developer. <br />
 
 ```js
 const Jeremias = {
