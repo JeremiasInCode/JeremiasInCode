@@ -1,5 +1,7 @@
 ### :man_technologist: I'm Jeremias Erba and I'm interested in programming.
 
+<br></br>
+
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently I'm studing Full stack developer in Holberton School. \
@@ -9,3 +11,5 @@
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jeremiaserba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+<br></br>
