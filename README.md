@@ -5,5 +5,6 @@
 <br>
 <h2>Social Networks</h2>
 
-[![LinkedIn][1.1]][1]
-[1]: https://www.linkedin.com/in/mosfazli/
+[![Twitter][2.2]][2]
+[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[2]: https://www.linkedin.com/in/jeremiaserba/
