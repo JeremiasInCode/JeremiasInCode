@@ -1,5 +1,7 @@
 <h3>¡Hey 👋! Soy Jeremias 👨🏻‍💻</h3>
 
+<br>
+
 ## 👤 Acerca de mi
 
 <p> I am passionate about coding and constantly strive to improve my technical skills. Currently, I am focused on learning C# and Python with SQL including ORM. On the FrontEnd, I mainly use JavaScript with React framework but especially focus on the backend. </p>
