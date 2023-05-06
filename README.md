@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/JeremiasInCode" width="100" height="100" alt="Profile picture"/>
-  <br>
-  <h3 align="center">¡Hey 👋! Soy Jeremias 👨🏻‍💻</h3>
-</p>
+<h3>¡Hey 👋! Soy Jeremias 👨🏻‍💻</h3>
 
 <br>
 
