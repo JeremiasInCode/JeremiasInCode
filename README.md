@@ -1,25 +1,33 @@
-# Hi, welcome to everyone! 👋
- 
-### I´m a junior software developer, currently studying at Holberton School.
+<h1>Hi there, I'm Jeremias Erba👋</h1>
 
-## Skills: 🛠️
+<p>I am a student at Hoberton School and a software developer with excellent soft skills such as teamwork, communication, and problem-solving. I am passionate about coding and constantly strive to improve my technical skills. Currently, I am focused on learning C# and Python with SQL including ORM. On the FrontEnd, I mainly use JavaScript with React framework. </p>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<h2>🌟 Skills</h2>
 
-## Learning platforms commonly used
+<ul>
+  <li><strong>Programming Languages:</strong> C#, Python, SQL</li>
+  <li><strong>Frameworks and Libraries:</strong> ORM, JavaScript, React</li>
+  <li><strong>Soft Skills:</strong> Teamwork, Communication, Problem-solving</li>
+</ul>
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![Freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+<h2>🚀 Projects</h2>
 
-## Communications platforms used
+<p>Here are some of the projects I have worked on:</p>
 
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Google](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+<ul>
+  <li><a href="https://github.com/yourusername/project1">Project 1</a>: A web application built with React and Node.js that allows users to manage their tasks.</li>
+  <li><a href="https://github.com/yourusername/project2">Project 2</a>: A C# console application that simulates a banking system.</li>
+  <li><a href="https://github.com/yourusername/project3">Project 3</a>: A Python script that scrapes data from a website and stores it in a database.</li>
+</ul>
+
+<h2>💬 Let's Connect</h2>
+
+<p>If you would like to get in touch with me, feel free to reach out via email or LinkedIn.</p>
+
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:youremail@email.com">jeremiaserba7894@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yourusername/">https://www.linkedin.com/in/jeremiaserba/</a></li>
+</ul>
+
+<p>Thank you for visiting my GitHub profile!</p>
+
