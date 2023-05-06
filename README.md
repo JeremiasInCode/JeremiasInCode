@@ -20,7 +20,7 @@
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
   
-- **Soft Skills:** Teamwork, Communication, Problem-solving
+- **Soft Skills:** Teamwork, Communication, Problem-solving.
 
 <br>
 
