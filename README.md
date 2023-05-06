@@ -1,12 +1,12 @@
 <h1>Hi there, I'm Jeremias Erba👋</h1>
 
-<p>I am a student at Hoberton School and a software developer with excellent soft skills such as teamwork, communication, and problem-solving. I am passionate about coding and constantly strive to improve my technical skills. Currently, I am focused on learning C# and Python with SQL including ORM. On the FrontEnd, I mainly use JavaScript with React framework. </p>
+<p>I am a student at Hoberton School and a software developer which started his journey as a curious child who wanted to create everything he could think of. Now working on making that wish come. With excellent soft skills such as teamwork, communication, and problem-solving. I am passionate about coding and constantly strive to improve my technical skills. Currently, I am focused on learning C# and Python with SQL including ORM. On the FrontEnd, I mainly use JavaScript with React framework. </p>
 
 <h2>🌟 Skills</h2>
 
 <ul>
-  <li><strong>Programming Languages:</strong> C#, Python, SQL</li>
-  <li><strong>Frameworks and Libraries:</strong> ORM, JavaScript, React</li>
+  <li><strong>Programming Languages:</strong> C#, Python, SQL, JavaScript</li>
+  <li><strong>Frameworks and Libraries:</strong>.NET and React</li>
   <li><strong>Soft Skills:</strong> Teamwork, Communication, Problem-solving</li>
 </ul>
 
