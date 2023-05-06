@@ -1,21 +1,23 @@
 # Hi there 👋
 
-![Profile Picture](https://media.licdn.com/dms/image/D4D03AQEWUXZi0wkt0g/profile-displayphoto-shrink_800_800/0/1678475608088?e=1688601600&v=beta&t=ahAc65-LxvmwHfqygFxBp76Cv9JXMogewRVqmnGHLQU)
-
-## 👤 About Me
+<img src="https://media.licdn.com/dms/image/D4D03AQEWUXZi0wkt0g/profile-displayphoto-shrink_800_800/0/1678475608088?e=1688601600&v=beta&t=ahAc65-LxvmwHfqygFxBp76Cv9JXMogewRVqmnGHLQU" width="150" height="150" style="border-radius:50%"/>
 
 I'm a student at Hoberton School and a software developer who started out as a curious kid who wanted to create whatever he could think of. Now working to make that desire a reality. With excellent soft skills such as teamwork, communication and problem solving. I am passionate about coding and constantly strive to improve my technical skills. Currently, I am focused on learning C# and Python with SQL including ORM. On the FrontEnd, I mainly use JavaScript with React framework but especially focus on the backend.
 
 ## 🌟 Skills
 
 - **Programming Languages:** 
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  <br> 
+  <br>
+  <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/> 
+  <img src="https://img.icons8.com/color/50/000000/python.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/> 
+  <img src="https://img.icons8.com/color/50/000000/javascript.png"/> 
 - **Frameworks and Libraries:** 
-  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  <br> 
+  <br>
+  <img src="https://img.icons8.com/color/50/000000/dot-net.png"/> 
+  <img src="https://img.icons8.com/color/50/000000/react-native.png"/> 
 - **Soft Skills:** Teamwork, Communication, Problem-solving
 
 ## 🚀 Projects
@@ -33,5 +35,6 @@ If you would like to get in touch with me, feel free to reach out via email or L
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
 
-Thank you for visiting my GitHub profile! 😄
+Thank you for visiting my GitHub profile! 😄 
+
 
