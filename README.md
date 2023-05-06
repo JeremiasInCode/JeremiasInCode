@@ -16,10 +16,6 @@ Here are some of the projects I have worked on:
 - [Project 2](https://github.com/yourusername/project2): A C# console application that simulates a banking system.
 - [Project 3](https://github.com/yourusername/project3): A Python script that scrapes data from a website and stores it in a database.
 
-## 📈 Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 💬 Let's Connect
 
 If you would like to get in touch with me, feel free to reach out via email or LinkedIn.
