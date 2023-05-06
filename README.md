@@ -1,8 +1,6 @@
-<br>
-
 <h3>¡Hey 👋! Soy Jeremias 👨🏻‍💻</h3>
 
-<br>
+<hr></hr>
 
 ## 👤 Acerca de mi
 
