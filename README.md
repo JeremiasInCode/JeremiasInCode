@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a student at Hoberton School and a software developer who started out as a curious kid who wanted to create whatever he could think of. Now working to make that desire a reality. With excellent soft skills such as teamwork, communication and problem solving. I am passionate about coding and constantly strive to improve my technical skills. Currently, I am focused on learning C# and Python with SQL including ORM. On the FrontEnd, I mainly use JavaScript with React framework but especially focus on the backend.
+I'm a student at Hoberton School and a software developer who started out as a curious kid who wanted to create whatever he could think of. Now working to make that desire a reality. With excellent soft skills such as teamwork, communication and problem solving. I am passionate about coding and constantly strive to improve my technical skills. Currently, I am focused on learning C# and Python with SQL. On the FrontEnd, I mainly use JavaScript with React framework but especially focus on the backend.
 
 ## 🌟 Skills
 
@@ -20,7 +20,7 @@ Here are some of the projects I have worked on:
 
 If you would like to get in touch with me, feel free to reach out via email or LinkedIn.
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](jeremiaserba7894@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/jeremiaserba/)
 
 Thank you for visiting my GitHub profile! 😄
