@@ -1,36 +1,32 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQEWUXZi0wkt0g/profile-displayphoto-shrink_800_800/0/1678475608088?e=1688601600&v=beta&t=ahAc65-LxvmwHfqygFxBp76Cv9JXMogewRVqmnGHLQU" alt="Profile Picture" width="200px" height="200px">
-  <h1>Jeremías Erba</h1>
-  <h3>Software Developer | Hoberton School Student</h3>
+  <img src="https://i.imgur.com/zkc7VOH.png" alt="Profile picture" width="250" style="border-radius: 50%;">
 </div>
 
-<p>I'm a student at Hoberton School and a software developer who started out as a curious kid who wanted to create whatever he could think of. Now working to make that desire a reality. With excellent soft skills such as teamwork, communication and problem solving. I am passionate about coding and constantly strive to improve my technical skills. Currently, I am focused on learning C# and Python with SQL including ORM. On the FrontEnd, I mainly use JavaScript with React framework but especially focus on the backend.</p>
+<h1 align="center">Jeremías Erba</h1>
 
-<h2>🌟 Skills</h2>
+<p align="center">Student at Hoberton School | Software Developer</p>
 
-<ul>
-  <li><strong>Programming Languages:</strong> C#, Python, SQL, JavaScript</li>
-  <li><strong>Frameworks and Libraries:</strong>.NET and React</li>
-  <li><strong>Soft Skills:</strong> Teamwork, Communication, Problem-solving</li>
-</ul>
+<p align="center">I'm a curious kid turned software developer who loves to create and solve problems. With excellent soft skills such as teamwork, communication, and problem-solving, I'm passionate about coding and constantly strive to improve my technical skills. Currently, I'm focused on learning C# and Python with SQL including ORM. On the FrontEnd, I mainly use JavaScript with React framework but especially focus on the backend.</p>
 
-<h2>🚀 Projects</h2>
+## 🌟 Skills
 
-<p>Here are some of the projects I have worked on:</p>
+- **Programming Languages:** C#, Python, SQL, JavaScript
+- **Frameworks and Libraries:** .NET and React
+- **Soft Skills:** Teamwork, Communication, Problem-solving
 
-<ul>
-  <li><a href="https://github.com/yourusername/project1">Project 1</a>: A web application built with React and Node.js that allows users to manage their tasks.</li>
-  <li><a href="https://github.com/yourusername/project2">Project 2</a>: A C# console application that simulates a banking system.</li>
-  <li><a href="https://github.com/yourusername/project3">Project 3</a>: A Python script that scrapes data from a website and stores it in a database.</li>
-</ul>
+## 🚀 Projects
 
-<h2>💬 Let's Connect</h2>
+Here are some of the projects I have worked on:
 
-<p>If you would like to get in touch with me, feel free to reach out via email or LinkedIn.</p>
+- [Project 1](https://github.com/yourusername/project1): A web application built with React and Node.js that allows users to manage their tasks.
+- [Project 2](https://github.com/yourusername/project2): A C# console application that simulates a banking system.
+- [Project 3](https://github.com/yourusername/project3): A Python script that scrapes data from a website and stores it in a database.
 
-<ul>
-  <li><strong>Email:</strong> <a href="mailto:jeremiaserba7894@gmail.com">jeremiaserba7894@gmail.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jeremiaserba/">https://www.linkedin.com/in/jeremiaserba/</a></li>
-</ul>
+## 💬 Let's Connect
 
-<p>Thank you for visiting my GitHub profile!</p>
+If you would like to get in touch with me, feel free to reach out via email or LinkedIn.
+
+- **Email:** [jeremiaserba7894@gmail.com](mailto:jeremiaserba7894@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/jeremiaserba/](https://www.linkedin.com/in/jeremiaserba/)
+
+Thank you for visiting my GitHub profile!
