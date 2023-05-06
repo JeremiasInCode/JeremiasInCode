@@ -2,9 +2,13 @@
    <h3 align="center">¡Hey 👋! Soy Jeremias 👨🏻‍💻</h3>
 </p>
 
+<br>
+
 ## 👤 Acerca de mi
 
 Soy un estudiante de la escuela Hoberton y un desarrollador de software que comenzó como un niño curioso que quería crear todo lo que pudiera imaginar. Ahora trabajando para hacer realidad ese deseo. Con excelentes habilidades blandas como trabajo en equipo, comunicación y resolución de problemas. Me apasiona la codificación y constantemente me esfuerzo por mejorar mis habilidades técnicas. Actualmente, me estoy enfocando en aprender C# y Python con SQL, incluido ORM. En FrontEnd, principalmente uso JavaScript con el marco de React, pero me enfoco especialmente en el backend.
+
+<br>
 
 ## 🌟 Habilidades
 
@@ -20,6 +24,7 @@ Soy un estudiante de la escuela Hoberton y un desarrollador de software que come
   
 - **Habilidades blandas:** Trabajo en equipo, Comunicación, Resolución de problemas
 
+<br>
 
 ## 💬 Conectemos
 
