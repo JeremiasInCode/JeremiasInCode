@@ -4,7 +4,7 @@
 
 ## 👤 About me
 
-<p> I am passionate about coding and constantly strive to improve my technical skills. Currently, I am focused on learning C# and Python with SQL including ORM. On the FrontEnd, I mainly use JavaScript with React framework but especially focus on the backend. </p>
+<p> I am junior developer passionate about coding and constantly strive to improve my technical skills for to create everything he could think of. Currently, I am focused C, C#, Python and SQL</p>
 
 <br>
 
