@@ -2,7 +2,6 @@
 
 <p> I am junior developer passionate about coding and constantly strive to improve my technical skills for to create everything he could think of. Currently, I am focused C, C#, Python and SQL</p>
 
-<br>
 
 ## 🌟 Skills
 
