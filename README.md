@@ -1,6 +1,6 @@
 ## 👤 About me
 
-<p> I am junior developer passionate about coding and constantly strive to improve my technical skills for to create everything he could think of. Currently, I am focused C, C#, Python and SQL</p>
+<p>    I am junior developer passionate about coding and constantly strive to improve my technical skills for to create everything he could think of. Currently, I am focused C, C#, Python and SQL</p>
 
 
 ## 🌟 Skills
@@ -16,8 +16,6 @@
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
   
 - **Soft Skills:** Teamwork, Communication, Problem-solving.
-
-<br>
 
 ## 💬 Let's Connect
 
