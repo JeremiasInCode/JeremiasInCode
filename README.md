@@ -1,6 +1,6 @@
 ## 👤 About me
 
-<p>    I am junior developer passionate about coding and constantly strive to improve my technical skills for to create everything he could think of. Currently, I am focused C, C#, Python and SQL</p>
+<p>    I am junior developer passionate about coding and constantly strive to improve my technical skills for to create everything he could think of. Currently, I am focused C#, Angular, SQL and Python</p>
 
 
 ## 🌟 Skills
@@ -9,7 +9,7 @@
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=typecript&logoColor=black)
   
 - **Frameworks and Libraries:** 
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
