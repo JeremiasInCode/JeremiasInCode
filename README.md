@@ -7,12 +7,14 @@
 
 - **Programming Languages:** 
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=c#,typescript,sql)](https://skillicons.dev)
   
 - **Frameworks and Libraries:** 
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  
   
 - **Soft Skills:** Teamwork, Communication, Problem-solving.
 
