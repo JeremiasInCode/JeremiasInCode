@@ -5,8 +5,8 @@
 
 ## 🌟 Skills
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,ts,mysql,mongodb)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,mysql,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
   
 - **Soft Skills:** Teamwork, Communication, Problem-solving.
 
