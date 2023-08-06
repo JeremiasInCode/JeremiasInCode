@@ -6,8 +6,15 @@
 ## 🌟 Skills
 
 - **Programming Languages:**
-  <br></br>
-  [![My Skills](https://skillicons.dev/icons?i=cs,ts,mysql,mongodb)](https://skillicons.dev)
+  <div class="centered-container">
+    [![My Skills](https://skillicons.dev/icons?i=cs,ts,mysql,mongodb)](https://skillicons.dev)
+  </div>
+  <style>
+    .centered-container {
+      display: flex;
+      justify-content: center;
+    }
+  </style>
   
 - **Frameworks and Libraries:** 
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
