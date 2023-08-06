@@ -1,6 +1,6 @@
 ## 👤 About me
 
-<p>    I am junior developer passionate about coding and constantly strive to improve my technical skills for to create everything he could think of. Currently, I am focused C#, Angular, SQL and Python</p>
+<p>    I am junior developer passionate about coding and constantly strive to improve my technical skills for to create everything he could think of. Currently, I am focused C# with .NET, SQL and next js.</p>
 
 
 ## 🌟 Skills
