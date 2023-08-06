@@ -5,7 +5,8 @@
 
 ## 🌟 Skills
 
-- **Programming Languages:** 
+- **Programming Languages:**
+  <br></br>
   [![My Skills](https://skillicons.dev/icons?i=cs,ts,mysql,mongodb)](https://skillicons.dev)
   
 - **Frameworks and Libraries:** 
