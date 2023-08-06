@@ -6,11 +6,7 @@
 ## 🌟 Skills
 
   [![My Skills](https://skillicons.dev/icons?i=cs,ts,mysql,mongodb)](https://skillicons.dev)
-  
-- **Frameworks and Libraries:** 
-  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs)](https://skillicons.dev)
   
 - **Soft Skills:** Teamwork, Communication, Problem-solving.
 
