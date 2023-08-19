@@ -1,12 +1,12 @@
 ## 👤 About me
 
-<p>    I am junior developer passionate about coding and constantly strive to improve my technical skills for to create everything he could think of. Currently, I am focused C# with .NET, SQL and next js.</p>
+<p>    I am junior developer passionate about coding and constantly strive to improve my technical skills for to create everything he could think of. Currently, I am focused C# with .NET, SQL and Mongo DB.</p>
 
 
 ## 🌟 Skills
 
   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,mysql,mongodb)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
   
 - **Soft Skills:** Teamwork, Communication, Problem-solving.
 
