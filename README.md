@@ -5,7 +5,7 @@
 
 ## 🌟 Skills
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,net,Laravel,ts,mysql,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,net,laravel,ts,mysql,mongodb)](https://skillicons.dev)
   
 - **Soft Skills:** Teamwork, Communication, Problem-solving.
 
